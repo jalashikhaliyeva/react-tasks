@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 const image1Url =
-  "https://i.ebayimg.com/images/g/V7kAAOSw7MtdTWoL/s-l1200.webp";
+  "https://media.istockphoto.com/id/1130217066/photo/canadian-one-dollar-coin-known-as-loonie.jpg?s=612x612&w=0&k=20&c=39DSCoJ4p1DwB0wlLdUattq8k8l8Js6uVZEVCpi8r3w=";
 const image2Url =
   "https://upload.wikimedia.org/wikipedia/en/e/e0/Canadian_Dollar_-_obverse.png";
 
